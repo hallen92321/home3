@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://hallen92321.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>hello</title>
+      <link>https://hallen92321.github.io/js/hallen.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hallen92321.github.io/js/hallen.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>loop animation</title>
       <link>https://hallen92321.github.io/js/loop_anim.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
