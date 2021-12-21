@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>放甚麼 on 點我你就知道後果了</title>
+    <link>https://hallen92321.github.io/class.html</link>
+    <description>Recent content in 放甚麼 on 點我你就知道後果了</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://hallen92321.github.io/class/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>io</title>
+      <link>https://hallen92321.github.io/class/jsi.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hallen92321.github.io/class/jsi.html</guid>
+      <description>、、、
+console.log(&#34;你是一隻豬&#34;)document.write(&#34;你是一隻笨豬&#34;)、、、 上面第一行是寫到主控台
+第二行是寫到文件
+後面程式碼執行結果 console.log(&#34;你是一隻豬&#34;)document.write(&#34;你是一隻笨豬&#34;)##甚麼是javascript 函數
+、、、 function print() ( message=&amp;quot;HELLO&amp;quot; console.log(message) )
+function print1() { message=&amp;quot;HELLO&amp;quot; console.log(message) }
+function print2() { message=&amp;quot;HELLO&amp;quot; console.log(message) }
+、、、
+function print()(message=&#34;HELLO&#34;console.log(message))function print1(){message=&#34;HELLO&#34;console.log(message)}function print2(){message=&#34;HELLO&#34;console.log(message)}function add1(arg1){result=arg1+1return(result)}  </description>
+    </item>
+    
+  </channel>
+</rss>

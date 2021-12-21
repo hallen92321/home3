@@ -1,4 +1,8 @@
 [
+{"uri": "https://hallen92321.github.io/class/jsi.html","title": "io",
+	"tags": [],
+	"description": "",
+	"content": "、、、\n\rconsole.log(\"你是一隻豬\")\rdocument.write(\"你是一隻笨豬\")\r\r、、、 上面第一行是寫到主控台\n第二行是寫到文件\n後面程式碼執行結果 \rconsole.log(\"你是一隻豬\")\rdocument.write(\"你是一隻笨豬\")\r\r##甚麼是javascript 函數\n、、、 function print() ( message=\u0026quot;HELLO\u0026quot; console.log(message) )\nfunction print1() { message=\u0026quot;HELLO\u0026quot; console.log(message) }\nfunction print2() { message=\u0026quot;HELLO\u0026quot; console.log(message) }\n、、、\n\rfunction print()\r(\rmessage=\"HELLO\"\rconsole.log(message)\r)\rfunction print1()\r{\rmessage=\"HELLO\"\rconsole.log(message)\r}\rfunction print2()\r{\rmessage=\"HELLO\"\rconsole.log(message)\r}\r\r\rfunction add1(arg1)\r{\rresult=arg1+1\rreturn(result)\r}\r  "},
 {"uri": "https://hallen92321.github.io/js/hallen.html","title": "hello",
 	"tags": [],
 	"description": "hi",

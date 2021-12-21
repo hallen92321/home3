@@ -16,6 +16,23 @@
     </item>
     
     <item>
+      <title>io</title>
+      <link>https://hallen92321.github.io/class/jsi.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hallen92321.github.io/class/jsi.html</guid>
+      <description>、、、
+console.log(&#34;你是一隻豬&#34;)document.write(&#34;你是一隻笨豬&#34;)、、、 上面第一行是寫到主控台
+第二行是寫到文件
+後面程式碼執行結果 console.log(&#34;你是一隻豬&#34;)document.write(&#34;你是一隻笨豬&#34;)##甚麼是javascript 函數
+、、、 function print() ( message=&amp;quot;HELLO&amp;quot; console.log(message) )
+function print1() { message=&amp;quot;HELLO&amp;quot; console.log(message) }
+function print2() { message=&amp;quot;HELLO&amp;quot; console.log(message) }
+、、、
+function print()(message=&#34;HELLO&#34;console.log(message))function print1(){message=&#34;HELLO&#34;console.log(message)}function print2(){message=&#34;HELLO&#34;console.log(message)}function add1(arg1){result=arg1+1return(result)}  </description>
+    </item>
+    
+    <item>
       <title>loop animation</title>
       <link>https://hallen92321.github.io/js/loop_anim.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
